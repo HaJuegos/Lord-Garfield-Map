@@ -14,4 +14,5 @@ From the very creator Fundy, The Lord Garfield has come to bedrock edition</p>
 <p align="center">
   <a href="https://twitter.com/ha_juegos?s=09"><img src="https://img.shields.io/twitter/follow/ha_juegos?style=plastic&color=success&logo=twitter&label=My%20Twitter" alt="Twitter "/></a>
   <a href="https://www.youtube.com/watch?v=7mA2c0vx2VQ&t=166s"><img src="https://img.shields.io/youtube/views/7mA2c0vx2VQ?style=plastic&logo=youtube&color=red&label=Original%20Video" alt="Youtube "/></a>
+  <a href="https://www.youtube.com/watch?v=SWd6QM0TTJo"><img src="https://img.shields.io/youtube/views/SWd6QM0TTJo?style=plastic&logo=youtube&color=red&label=Video%20tutorial%20in%20Spanish" alt="Youtube "/></a>
 </p>

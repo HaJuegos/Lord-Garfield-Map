@@ -1,0 +1,20 @@
+## This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+## My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+## ********************************************************************
+## Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+## Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos
+
+## Warning! English translations are not all very accurate, if you see something wrong, report it on my discord server or if you want to help with translations! (Server in Spanish but send me MD if you don't know Spanish)
+
+message.dialogue_garfield.one=<Garfield> John. Where's my lasagna? I need
+message.dialogue_garfield.two=<Garfield> John I am hungry. You know what happens if you don't feed me John?
+message.dialogue_garfield.three=<Garfield> John craft lasagna. Craft it now
+message.dialogue_garfield.four=<Garfield> You're running out of time John. I might need to eat something else if I don't get my lasagna
+message.dialogue_garfield.five=<Garfield> 10 seconds, John..
+message.dialogue_garfield.final=<Garfield> Time's up. It's dinner time!
+
+message.dialogue_garfield.death=<Garfield> I am defeated.
+
+name.entity.garfield=§6Lord Garfield
+
+entity.ha:garfield.name=§6Lord Garfield§r

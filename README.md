@@ -29,10 +29,18 @@ Any bug report or idea for improvement will be greatly appreciated or even rewar
 ## GUIA DE USO / OPERATION GUIDE
 
 [ENG]
+- **SHOULD ONLY BE PLAYED ON 1.18.30 AND VERSIONS LOWER THAN THIS ONE.**
 - Give a cat a nametag, with the name "Garfield" (respecting capital letters of course) and have fun. And that's it. If you have any other doubt, watch the [Original Video](https://www.youtube.com/watch?v=7mA2c0vx2VQ)
 
 [ESP]
+- **SOLO SE DEBE JUGAR EN LA 1.18.30 Y VERSIONES MENORES A ESTE**
 - Ponle a un gato un nametag, con el nombre "Garfield" (Respetando mayusculas claro). Y ya, eso es todo. Si tienes otra duda, mira el [Video Original](https://www.youtube.com/watch?v=7mA2c0vx2VQ)
 
 ## OPCIONES EXPERIMENTALES / EXPERIMENTAL FEATURES
 - _Este add-on requiere de estas opciones experimentales activas en tu mundo para poder funcionan de forma correcta, Procura tenerlo activo. / This add-on requires these experimental options to be active in your world in order to work properly, try to have it active._
+- 
+![unknown](https://user-images.githubusercontent.com/102632956/170766085-a09c1733-7171-4848-a11d-711b720d6e52.png)
+![Captura de pantalla (412)](https://user-images.githubusercontent.com/102632956/170766092-fa87dc91-c3a5-4530-811d-9f68f8749e8e.png)
+
+![Captura de pantalla (414)](https://user-images.githubusercontent.com/102632956/170765992-76577aee-2e3a-4781-98da-a4cdec1ebb0d.png)
+![Captura de pantalla (413)](https://user-images.githubusercontent.com/102632956/170766015-634adfbd-f80e-4fa4-aab6-30e8896570df.png)

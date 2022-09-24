@@ -8,8 +8,8 @@ From the very creator Fundy, The Lord Garfield has come to bedrock edition</p>
 
 <p align="center">
   <a href="https://discord.gg/WH9KpNWXUz"><img src="https://img.shields.io/discord/782053401281429504?style=plastic&color=red&logo=discord&label=The%20Games%20Store%20Server" alt="Discord "/></a>
-  <a href="https://ko-fi.com/hajuegos0710"><img src="https://img.shields.io/npm/v/express?url=https://ko-fi.com/hajuegos0710&style=plastic&logo=kofi&label=Dona%20o%20Comisiona%20a%20Ha%20Cat%20Aqui!&color=inactive" alt="Ko-Fi "/></a>
-  <a href="https://github.com/HaJuegos/Lord-Garfield-Map"><img src="https://img.shields.io/github/stars/HaJuegos/Lord-Garfield-Map?label=Estrellas%20En%20Total&style=plastic&logo=github&color=blueviolet" alt="GitHub Stars "/></a>
+  <a href="https://ko-fi.com/hajuegos0710"><img src="https://img.shields.io/npm/v/express?url=https://ko-fi.com/hajuegos0710&style=plastic&logo=kofi&label=Donate%20or%20commission%20ha%20cat%20here!!&color=inactive" alt="Ko-Fi "/></a>
+  <a href="https://github.com/HaJuegos/Lord-Garfield-Map"><img src="https://img.shields.io/github/stars/HaJuegos/Lord-Garfield-Map?label=Total%20stars&style=plastic&logo=github&color=blueviolet" alt="GitHub Stars "/></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/ha_juegos"><img src="https://img.shields.io/twitter/follow/ha_juegos?style=plastic&color=success&logo=twitter&label=Ha%20Juegos%20Cat%20Twitter" alt="Twitter "/></a>

@@ -3,48 +3,48 @@
 ## [ESP]
 
 - Descargar Todo del add-on (Mundo, comportamientos y texturas):
-	- [**__DESCARGAR TODO__**]()
+	- [**__DESCARGAR TODO__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/Todo%20en%20Uno-%20All%20from%20the%20Addon.mcaddon)
 
 - Add-on Por separado:
 
-	- [**__DESCARGAR TEXTURAS__**]()
-	- [**__DESCARGAR COMPORTAMIENTOS__**]()
+	- [**__DESCARGAR TEXTURAS__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/mcaddon-mcpack/texturas-texture.mcpack)
+	- [**__DESCARGAR COMPORTAMIENTOS__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/mcaddon-mcpack/comportamiento-behavior.mcpack)
 
 - Mundo Template con todo ya configurado:
 
-	- [**__DESCARGAR MUNDO__**]()
+	- [**__DESCARGAR MUNDO__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/world_template/%5BESP%5D%20Mundo%20ya%20configurado.mctemplate)
 
 - Archivos Zip para uso libre:
 
-	- [**__DESCARGAR TEXTURAS__**]()
-	- [**__DESCARGAR COMPORTAMIENTOS__**]()
+	- [**__DESCARGAR TEXTURAS__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/zip/Textura-Texture.zip)
+	- [**__DESCARGAR COMPORTAMIENTOS__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/zip/Comportamiento-Behavior.zip)
 	
 - Opciones Experimentales:
 	
-	- [**__VER OPCIONES EXPERIMENTALES__**]()
+	- [**__VER OPCIONES EXPERIMENTALES__**](https://github.com/HaJuegos/Lord-Garfield-Map/tree/main/descargas-dowloads#opciones-experimentales---experimental-options)
 	
 ## [ENG]
 
 - Download all add-on (World, behaviors and textures):
-	- [**__DOWNLOAD ALL__**]()
+	- [**__DOWNLOAD ALL__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/Todo%20en%20Uno-%20All%20from%20the%20Addon.mcaddon)
 
 - Add-on Separately:
 
-	- [**__DOWNLOAD TEXTURES__**]()
-	- [**__DOWNLOAD BEHAVIORS__**]()
+	- [**__DOWNLOAD TEXTURES__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/mcaddon-mcpack/texturas-texture.mcpack)
+	- [**__DOWNLOAD BEHAVIORS__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/mcaddon-mcpack/comportamiento-behavior.mcpack)
 
 - Template World with everything already configured:
 
-	- [**__DOWNLOAD WORLD__**]()
+	- [**__DOWNLOAD WORLD__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/world_template/%5BENG%5D%20World%20Template.mctemplate)
 
 - Zip files for free use:
 
-	- [**__DOWNLOAD TEXTURES__**]()
-	- [**__DOWNLOAD BEHAVIORS__**]()
+	- [**__DOWNLOAD TEXTURES__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/zip/Textura-Texture.zip)
+	- [**__DOWNLOAD BEHAVIORS__**](https://github.com/HaJuegos/Lord-Garfield-Map/raw/main/descargas-dowloads/zip/Comportamiento-Behavior.zip)
 
 - Opciones Experimentales:
 	
-	- [**__SEE EXPERIMENTAL OPTIONS__**]()
+	- [**__SEE EXPERIMENTAL OPTIONS__**](https://github.com/HaJuegos/Lord-Garfield-Map/tree/main/descargas-dowloads#opciones-experimentales---experimental-options)
 
 
 ### LISTA DE CAMBIOS - CHANGE LOG
